@@ -8,6 +8,7 @@ namespace GitTest
 {
     public class AnnelieTest
     {
+        public string Name { get; set; } = "Annelie";
 
         public AnnelieTest()
         {
