@@ -8,6 +8,10 @@
 
             AnnelieTest test = new AnnelieTest();
             test.TestMethod();
+
+            HenkesCoolClass coolClass = new HenkesCoolClass();
+            coolClass.CoolMethod();
+
         }
     }
 }
